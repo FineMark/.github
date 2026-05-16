@@ -2,6 +2,8 @@
   <img src="https://github.com/FineMark/finemark/blob/main/assets/finemark_banner.png" alt="FineMark" width="100%">
 </p>
 
+<p align="center">FineMark is a structured document language.</p>
+
 <!--
 
 **Here are some ideas to get you started:**
