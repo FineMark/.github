@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/FineMark/finemark/blob/main/assets/finemark_banner.png" alt="FineMark" width="100%">
+</p>
 
 <!--
 
